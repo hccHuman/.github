@@ -71,11 +71,15 @@ Our philosophy is anchored in three Japanese pillars:
 
 ---
 
-## 🧪 HCC_LAB – Our R&D Powerhouse
+### 🧪 HCC_LAB — The Innovation Core of HCC
 
-HCC_LAB is the innovation core of HCC: a dedicated research and development environment where we explore how technology can become more human, inclusive, and emotionally intelligent.
+> Where technology becomes more human.
 
-Here, we design, prototype, and validate experimental systems that later evolve into real-world products, internal tools, and client solutions. Our mission is not only to follow technological trends, but to anticipate them—building foundations for the next generation of digital experiences.
+HCC_LAB is the innovation heart of **HCC** — a dedicated research and development environment where we explore how technology can become more **human, inclusive, and emotionally intelligent**.
+
+Here, we design, prototype, and validate experimental systems that later evolve into **real-world products**, **internal tools**, and **client solutions**.
+
+Our mission is not only to follow technological trends, but to **anticipate them** — building the foundations for the **next generation of digital experiences**.
 
 ---
 
