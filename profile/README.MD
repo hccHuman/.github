@@ -73,13 +73,9 @@ Our philosophy is anchored in three Japanese pillars:
 
 ## 🧪 HCC_LAB – Our R&D Powerhouse
 
-HCC_LAB is where the future is built today. Our internal research focus includes:
+HCC_LAB is the innovation core of HCC: a dedicated research and development environment where we explore how technology can become more human, inclusive, and emotionally intelligent.
 
-- **Emotional Computing**: Real-time sentiment analysis for UI adaptation.
-- **Adaptive Interfaces**: Dynamic layouts that adjust for cognitive load.
-- **Accessibility Automation**: AI-driven remediation of digital barriers.
-- **Urban Visualization**: Interactive 3D maps for smarter cities.
-- **Narrative Logic**: State-machine based storytelling engines.
+Here, we design, prototype, and validate experimental systems that later evolve into real-world products, internal tools, and client solutions. Our mission is not only to follow technological trends, but to anticipate them—building foundations for the next generation of digital experiences.
 
 ---
 
