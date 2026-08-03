@@ -20,7 +20,7 @@
 
 **HCC** is a premium web development studio based in **Madrid, Spain**. We specialize in creating high-performance, accessible, and visually stunning digital experiences for brands that demand excellence.
 
-We don't just build websites — we craft digital experiences that combine technical sophistication with human-centered design principles. Our work focuses on landing pages, e-commerce platforms, and custom web solutions that stand out in the digital landscape.
+We don't just build websites, we craft digital experiences that combine technical sophistication with human-centered design principles. Our work focuses on landing pages, e-commerce platforms, and custom web solutions that stand out in the digital landscape.
 
 ### Our Mission
 
@@ -43,7 +43,7 @@ To become the reference for premium web development in Europe, known for deliver
 
 ### Technical Luxury Philosophy
 
-We define **Technical Luxury** as the perfect harmony between engineering excellence and refined aesthetics. It's not just about making things look beautiful — it's about making them work beautifully.
+We define **Technical Luxury** as the perfect harmony between engineering excellence and refined aesthetics. It's not just about making things look beautiful it's about making them work beautifully.
 
 Our approach to technical luxury includes:
 
@@ -115,7 +115,7 @@ Every project follows our proven methodology:
 
 ### Performance That Converts
 
-In today's digital landscape, performance isn't just a technical metric — it's a business imperative. Our commitment to performance directly impacts your bottom line:
+In today's digital landscape, performance isn't just a technical metric it's a business imperative. Our commitment to performance directly impacts your bottom line:
 
 - **Faster Load Times = Higher Conversion**: Every 100ms improvement in load time can increase conversion rates by 1%
 - **Better SEO Rankings**: Google prioritizes fast, accessible websites in search results
@@ -255,7 +255,7 @@ We're always looking for:
 
 ## 🎨 Our Design Philosophy
 
-We believe in **technical luxury** — the intersection of high-performance engineering and refined aesthetics. Every project we undertake follows these principles:
+We believe in **technical democracy** the intersection of high-performance engineering and refined aesthetics. Every project we undertake follows these principles:
 
 - **Performance First**: Fast loading times are not optional — they're essential
 - **Accessibility by Default**: Every user deserves an excellent experience
