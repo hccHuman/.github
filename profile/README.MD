@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🚀 HCC – Human Centered Code
-### Premium Web Development · E-commerce Solutions · Landing Pages · Digital Experiences
+# 🚀 HCC – Human Creativity Creator
+### Web Development · E-commerce Solutions · Landing Pages · Digital Experiences
 
 [![Tech: TypeScript](https://img.shields.io/badge/Tech-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Framework: Astro](https://img.shields.io/badge/Framework-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
@@ -193,7 +193,7 @@ We've built a culture that reflects our values:
 
 - **Remote-First**: We work from anywhere, but collaborate as if we're in the same room
 - **Continuous Learning**: Weekly knowledge-sharing sessions, conference attendance, and experimental projects
-- **Open Communication**: No hierarchy — ideas matter more than titles
+- **Open Communication**: No hierarchy ideas matter more than titles
 - **Work-Life Balance**: We believe rested, happy team members produce better work
 - **Client Partnership**: We consider our clients as partners, not just customers
 
@@ -238,7 +238,6 @@ We're constantly evolving and expanding our capabilities:
 
 - **AI Integration**: Thoughtful implementation of AI to enhance, not replace, human creativity
 - **Web3 Exploration**: Investigating blockchain technologies for secure, decentralized applications
-- **Mobile Apps**: Expanding from web to native mobile experiences
 - **International Expansion**: Growing our team and client base across Europe
 - **Education Platform**: Launching courses and resources for the next generation of developers
 
@@ -279,5 +278,5 @@ Ready to elevate your digital presence? Let's talk.
 ---
 
 <div align="center">
-  <sub><strong>HCC – Human Centered Code</strong><br>Building premium digital experiences with technical luxury.</sub>
+  <sub><strong>HCC – Human Creativity Creator</strong><br>Building premium digital experiences with technical luxury.</sub>
 </div>
