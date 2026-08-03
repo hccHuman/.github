@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🚀 HCC – Human Creativity Creator
+
 ### Web Development · E-commerce Solutions · Landing Pages · Digital Experiences
 
 [![Tech: TypeScript](https://img.shields.io/badge/Tech-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -146,7 +147,7 @@ We build for the future, not just for today:
 
 ### E-commerce Excellence
 
-We build e-commerce platforms that don't just sell products — they create shopping experiences. Our e-commerce solutions include:
+We build e-commerce platforms that don't just sell products they create shopping experiences. Our e-commerce solutions include:
 
 - **Headless Commerce**: Decoupled frontend for maximum flexibility and performance
 - **Custom Checkout Flows**: Optimized conversion funnels tailored to your products
